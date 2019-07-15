@@ -1,0 +1,9 @@
+const char* SSID =      "YOUR_SSID";
+const char* WIFIPASS =  "YOUR_PASS";
+
+#define AWS_ZONE	    "us-east-2"
+#define AWS_ENDPOINT	"amazonaws.com"
+#define AWS_DOMAIN	    "**********.iot.us-east-2.amazonaws.com"
+#define AWS_PATH     	"/things/IotTestDevice/shadow"
+#define AWS_KEYID	    "**********"
+#define AWS_SECRET	    "******************TnGyyb9S7rBUQS6" 
